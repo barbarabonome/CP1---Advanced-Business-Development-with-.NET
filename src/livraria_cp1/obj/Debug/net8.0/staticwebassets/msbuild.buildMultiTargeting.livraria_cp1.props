@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\livraria_cp1.props" />
+</Project>
